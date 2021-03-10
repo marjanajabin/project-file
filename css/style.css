@@ -1,0 +1,36 @@
+h1{
+	color: red;
+	color: green;
+	color: blue;
+}
+
+
+
+h3{
+	color: pink;
+	background: yellow;
+}
+
+
+p{
+	color: red;
+}
+
+
+.head1{
+	background-color: green; 
+}
+
+.red{
+	border: 5px solid red;
+}
+
+#heading1{
+	background-color: black;
+}
+
+div{
+	width: 200px;
+	height: 100px;
+	background-color: rgba(121,12,0,.8);
+}
